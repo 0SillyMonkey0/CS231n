@@ -1,5 +1,5 @@
 ## CS231n
-### This project is done based on Anaconda3(python3.6) and Win10 instead of Linux. Therefore, there are some things should be noticed  
+### The first two assignments are done based on Anaconda3(python3.6) and Win10 instead of Linux. Therefore, there are some things should be noticed  
   
 * First, the dataset should be manually down load from  https://www.cs.toronto.edu/~kriz/cifar.html and added to the /cs231n/datasets/
 
